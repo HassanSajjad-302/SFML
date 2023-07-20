@@ -1,0 +1,20 @@
+{
+    "Version": "1.0",
+    "BuildAsHeaderUnits": [
+        "Angle.hpp",
+        "Clock.hpp",
+        "Err.hpp",
+        "Export.hpp",
+        "FileInputStream.hpp",
+        "InputStream.hpp",
+        "MemoryInputStream.hpp",
+        "NativeActivity.hpp",
+        "Sleep.hpp",
+        "String.hpp",
+        "SuspendAwareClock.hpp",
+        "Time.hpp",
+        "Utf.hpp",
+        "Vector2.hpp",
+        "Vector3.hpp"
+    ]
+}

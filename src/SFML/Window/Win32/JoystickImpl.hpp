@@ -28,7 +28,6 @@
 // Headers
 ////////////////////////////////////////////////////////////
 #include <SFML/Window/Joystick.hpp>
-#include <SFML/Window/JoystickImpl.hpp>
 
 #include <SFML/System/Win32/WindowsHeader.hpp>
 

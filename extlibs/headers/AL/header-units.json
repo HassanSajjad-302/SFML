@@ -1,0 +1,11 @@
+{
+    "Version": "1.0",
+    "BuildAsHeaderUnits": [
+        "al.h",
+        "alc.h",
+        "alext.h",
+        "efx-creative.h",
+        "efx-presets.h",
+        "efx.h"
+    ]
+}

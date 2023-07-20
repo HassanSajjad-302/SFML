@@ -1,0 +1,8 @@
+{
+    "Version": "1.0",
+    "BuildAsHeaderUnits": [
+        "codec.h",
+        "vorbisenc.h",
+        "vorbisfile.h"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Version": "1.0",
+    "BuildAsHeaderUnits": [
+        "AlResource.hpp",
+        "Export.hpp",
+        "InputSoundFile.hpp",
+        "Listener.hpp",
+        "Music.hpp",
+        "OutputSoundFile.hpp",
+        "Sound.hpp",
+        "SoundBuffer.hpp",
+        "SoundBufferRecorder.hpp",
+        "SoundFileFactory.hpp",
+        "SoundFileReader.hpp",
+        "SoundFileWriter.hpp",
+        "SoundRecorder.hpp",
+        "SoundSource.hpp",
+        "SoundStream.hpp"
+    ]
+}

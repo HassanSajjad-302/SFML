@@ -2,13 +2,29 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
-#include <SFML/Graphics.hpp>
+
+#ifdef USE_HEADER_IMPORT
+import <SFML/Graphics/Graphics.hpp>;
+#else
+
+#include <SFML/Graphics/Graphics.hpp>
+
+#endif
+
 #ifndef WIN32_LEAN_AND_MEAN
 #define WIN32_LEAN_AND_MEAN
 #endif
-#include <windows.h>
 
+#ifdef USE_HEADER_IMPORT
+import <windows.h>;
+import <cmath>;
+#else
+
+#include <windows.h>
 #include <cmath>
+
+#endif
+
 
 HWND button;
 

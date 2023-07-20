@@ -1,0 +1,17 @@
+{
+    "Version": "1.0",
+    "BuildAsHeaderUnits": [
+        "ClipboardImpl.hpp",
+        "CursorImpl.hpp",
+        "EGLCheck.hpp",
+        "EglContext.hpp",
+        "GlContext.hpp",
+        "InputImpl.hpp",
+        "JoystickImpl.hpp",
+        "JoystickManager.hpp",
+        "SensorImpl.hpp",
+        "SensorManager.hpp",
+        "VideoModeImpl.hpp",
+        "WindowImpl.hpp"
+    ]
+}

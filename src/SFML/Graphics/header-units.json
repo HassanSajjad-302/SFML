@@ -1,0 +1,12 @@
+{
+    "Version": "1.0",
+    "BuildAsHeaderUnits": [
+        "GLCheck.hpp",
+        "GLExtensions.hpp",
+        "ImageLoader.hpp",
+        "RenderTextureImpl.hpp",
+        "RenderTextureImplDefault.hpp",
+        "RenderTextureImplFBO.hpp",
+        "TextureSaver.hpp"
+    ]
+}

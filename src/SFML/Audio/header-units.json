@@ -1,0 +1,14 @@
+{
+    "Version": "1.0",
+    "BuildAsHeaderUnits": [
+        "ALCheck.hpp",
+        "AudioDevice.hpp",
+        "SoundFileReaderFlac.hpp",
+        "SoundFileReaderMp3.hpp",
+        "SoundFileReaderOgg.hpp",
+        "SoundFileReaderWav.hpp",
+        "SoundFileWriterFlac.hpp",
+        "SoundFileWriterOgg.hpp",
+        "SoundFileWriterWav.hpp"
+    ]
+}

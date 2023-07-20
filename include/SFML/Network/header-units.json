@@ -1,0 +1,16 @@
+{
+    "Version": "1.0",
+    "BuildAsHeaderUnits": [
+        "Export.hpp",
+        "Ftp.hpp",
+        "Http.hpp",
+        "IpAddress.hpp",
+        "Packet.hpp",
+        "Socket.hpp",
+        "SocketHandle.hpp",
+        "SocketSelector.hpp",
+        "TcpListener.hpp",
+        "TcpSocket.hpp",
+        "UdpSocket.hpp"
+    ]
+}

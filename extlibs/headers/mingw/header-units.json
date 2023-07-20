@@ -1,0 +1,7 @@
+{
+    "Version": "1.0",
+    "BuildAsHeaderUnits": [
+        "dinput.h",
+        "_mingw_dxhelper.h"
+    ]
+}

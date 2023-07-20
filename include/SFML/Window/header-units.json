@@ -1,0 +1,23 @@
+{
+    "Version": "1.0",
+    "BuildAsHeaderUnits": [
+        "Clipboard.hpp",
+        "Context.hpp",
+        "ContextSettings.hpp",
+        "Cursor.hpp",
+        "Event.hpp",
+        "Export.hpp",
+        "GlResource.hpp",
+        "Joystick.hpp",
+        "Keyboard.hpp",
+        "Mouse.hpp",
+        "Sensor.hpp",
+        "Touch.hpp",
+        "VideoMode.hpp",
+        "Vulkan.hpp",
+        "Window.hpp",
+        "WindowBase.hpp",
+        "WindowHandle.hpp",
+        "WindowStyle.hpp"
+    ]
+}
